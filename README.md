@@ -1,3 +1,4 @@
 # multivendor
-This is first github repository
+This is first github repository.
+<br>
 Author-Amit Kumar
